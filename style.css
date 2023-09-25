@@ -29,7 +29,7 @@ article div {
   width: 100%;
 }
 
-section div p,
+div p,
 ul,
 ol {
   text-align: left;
